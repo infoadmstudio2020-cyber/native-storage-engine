@@ -22,7 +22,7 @@ dependencyResolutionManagement {
 
 ```gradle
 dependencies {
-    implementation 'com.github.com.roni.library.logger:native-storage-engine:1.0.0'
+    implementation 'com.github.infoadmstudio2020-cyber:native-storage-engine:1.0.0'
 }
 ```
 
